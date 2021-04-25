@@ -1,0 +1,3 @@
+dynmen
+traitlets
+git+git://github.com/cakturk/pyrandr@master#egg=pyrandr
